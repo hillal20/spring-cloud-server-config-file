@@ -1,0 +1,8 @@
+spring:
+  application:
+         name: movie-info-service
+server:
+   port: 8082
+
+api:
+   key: c9e5a1730af18cb84725665fa54b62ec
