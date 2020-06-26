@@ -3,3 +3,4 @@ spring:
     name: ratings-data-service
 server:
   port: 8083
+message: hello guys 
