@@ -3,4 +3,4 @@ spring:
            name: movie-catalog-service
 server:
      port: 8081
-message: hello guys 
+message: hello guys, i just addited the  conig  server git-file  
