@@ -6,4 +6,4 @@ server:
 
 api:
    key: c9e5a1730af18cb84725665fa54b62ec
-message: hello guy, we just edited the git file deployed in the server config git repo s 
+message: hello guy, we just edited the git file deployed in the server config git repo, by the way we dont need the properties file for the config server to be deployed, we deploy only the yml files of the clients 
